@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ]
+  ],
+  "legacy_uid": "29a7cc2b-72a6-9d04-6a6d-469f37e9fbeb",
+  "instructors": {
+    "content": [
+      "1578c611-869a-a8cf-02a1-4c0741b6494e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ba3009af-eeaa-1e87-3d18-0e2d43f5ce83",
+    "website": "21a-111j-for-love-and-money-rethinking-the-family-spring-2016"
+  },
+  "course_title": "For Love and Money: Rethinking the Family",
+  "course_description": "Through investigating cross-cultural case studies, this course introduces students to the anthropological study of the social institutions and symbolic meanings of family, gender, and sexuality. We will explores the myriad forms that families and households take and considers their social, emotional, and economic dynamics.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.172J",
+  "primary_course_number": "21A.111J",
+  "course_image_thumbnail": {
+    "content": "66a213ac-2cc8-a5ab-8a24-0d241cccd273",
+    "website": "21a-111j-for-love-and-money-rethinking-the-family-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "57389f3b-dd1d-42a9-b7bc-c6da36d671c7",
+  "site_short_id": "21a.111j-spring-2016",
+  "site_url_path": "courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016",
+  "title": "Course Metadata"
+}
